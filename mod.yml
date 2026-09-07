@@ -1,0 +1,24 @@
+title: "Critical Mix Additions Extras"
+originalAuthor: Drflash55
+description: >-
+ Updated LUA scripts of XendraDevs' releases
+ 
+ from Kingdom Hearts I: Critical Mix.
+
+
+ Mods include: Keyblade Hitbox Changes, Keyblade Recoil Changes, and Quick Sora Animations (+Command Slowdown).
+
+ NOTE: Press L3 to toggle the speedup animations. Press R3 if the speed is stuck too fast or too slow when disabled.
+assets:
+- name: scripts/CMix_GameSpeedup.lua
+  method: copy
+  source:
+  - name: scripts/CMix_GameSpeedup.lua
+- name: scripts/CMix_KeybladeHitboxHandler.lua
+  method: copy
+  source:
+  - name: scripts/CMix_KeybladeHitboxHandler.lua
+- name: scripts/CMix_KeybladeRecoilHandler.lua
+  method: copy
+  source:
+  - name: scripts/CMix_KeybladeRecoilHandler.lua
