@@ -1,4 +1,4 @@
-# Kingdom Hearts I: Final Mix — Critical Mix Additions
+# Kingdom Hearts I: Final Mix — Critical Mix Additions Extras
 Adds various amounts of additions courtesy of the Critical Mix mod:
 - Keyblade Hitbox Changes
 - Keyblade Recoil Changes
